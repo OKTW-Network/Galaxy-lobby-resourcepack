@@ -1,0 +1,37 @@
+{
+	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11, model design by bill96012",
+	"display": {
+		"fixed": {
+			"scale": [2, 2, 2],
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -14]
+		},
+		"thirdperson_righthand": {
+			"scale": [0.25, 0.25, 0.25],
+			"rotation": [90, 0, 0],
+			"translation": [0, 4, 3]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.25, 0.25, 0.25],
+			"rotation": [90, 0, 0],
+			"translation": [0, 4, 3]
+		},
+		"firstperson_righthand": {
+			"scale": [0.25, 0.25, 0.25],
+			"rotation": [90, 0, 0],
+			"translation": [3.5, 4, 0]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.25, 0.25, 0.25],
+			"rotation": [90, 0, 0],
+			"translation": [3.5, 4, 0]
+		},
+		"ground": {
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"scale": [0.39, 0.39, 0.39],
+			"rotation": [90, 0, 0]
+		}
+	}
+}
