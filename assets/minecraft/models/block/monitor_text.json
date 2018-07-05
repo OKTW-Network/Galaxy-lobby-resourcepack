@@ -83,7 +83,7 @@
 			"translation": [0, 1, 0]
 		},
 		"fixed": {
-			"scale": [1.6, 1.6, 1.6],
+			"scale": [1.6, 1.6, 1.7],
 			"translation": [0, 0, -11.5]
 		},
 		"gui": {

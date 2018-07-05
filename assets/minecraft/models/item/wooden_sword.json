@@ -5,11 +5,12 @@
     },
 	"overrides": [
 		{ "predicate": {"damaged": 0, "damage": 0}, "model": "item/wooden_sword"},
-		{ "predicate": {"damaged": 0, "damage": 0.8983050847457627}, "model": "block/sign_gfplz"},
-		{ "predicate": {"damaged": 0, "damage": 0.9152542372881356}, "model": "block/sign_staff"},
-		{ "predicate": {"damaged": 0, "damage": 0.9322033898305085}, "model": "block/sign_oktw"},
-		{ "predicate": {"damaged": 0, "damage": 0.9491525423728814}, "model": "block/monitor_text"},
-		{ "predicate": {"damaged": 0, "damage": 0.9661016949152542}, "model": "block/monitor_unavailable"},
+		{ "predicate": {"damaged": 0, "damage": 0.8813559322033898}, "model": "block/sign_gfplz"},
+		{ "predicate": {"damaged": 0, "damage": 0.8983050847457627}, "model": "block/sign_staff"},
+		{ "predicate": {"damaged": 0, "damage": 0.9152542372881356}, "model": "block/sign_oktw"},
+		{ "predicate": {"damaged": 0, "damage": 0.9322033898305085}, "model": "block/monitor_text"},
+		{ "predicate": {"damaged": 0, "damage": 0.9491525423728814}, "model": "block/monitor_unavailable"},
+		{ "predicate": {"damaged": 0, "damage": 0.9661016949152542}, "model": "block/elevator"},
 		{ "predicate": {"damaged": 0, "damage": 0.9830508474576271}, "model": "block/ht_crafting_table"},
 		{ "predicate": {"damaged": 1, "damage": 0}, "model": "item/wooden_sword"}
 	]
