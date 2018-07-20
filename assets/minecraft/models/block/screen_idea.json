@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11, model design by bill96012",
 	"textures": {
 		"0": "custom/concrete_gray",
-		"1": "custom/IDE",
+		"1": "custom/ide",
 		"2": "custom/concrete_lime",
 		"particle": "custom/concrete_gray"
 	},
