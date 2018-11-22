@@ -5,7 +5,7 @@
     },
 	"overrides": [
 		{ "predicate": {"damaged": 0, "damage": 0}, "model": "item/diamond_shovel"},
-		{ "predicate": {"damaged": 0, "damage": 0.9833440102498398}, "model": "block/block"},
+		{ "predicate": {"damaged": 0, "damage": 0.9833440102498398}, "model": "block/laser_launcher"},
 		{ "predicate": {"damaged": 0, "damage": 0.9839846252402306}, "model": "block/server12_red"},
 		{ "predicate": {"damaged": 0, "damage": 0.9846252402306214}, "model": "block/server12_yellow"},
 		{ "predicate": {"damaged": 0, "damage": 0.9852658552210122}, "model": "block/server12_gray"},
@@ -29,8 +29,8 @@
 		{ "predicate": {"damaged": 0, "damage": 0.9967969250480461}, "model": "block/sign_nf"},
 		{ "predicate": {"damaged": 0, "damage": 0.9974375400384369}, "model": "block/sign_oktw"},
 		{ "predicate": {"damaged": 0, "damage": 0.9980781550288277}, "model": "block/sign_staff"},
-		{ "predicate": {"damaged": 0, "damage": 0.9987187700192184}, "model": "block/bigsign_staff_only"},
-		{ "predicate": {"damaged": 0, "damage": 0.9993593850096092}, "model": "block/bigsign_unavailable"},
+		{ "predicate": {"damaged": 0, "damage": 0.9987187700192184}, "model": "block/laser_staff_only"},
+		{ "predicate": {"damaged": 0, "damage": 0.9993593850096092}, "model": "block/laser_unavailable"},
 		{ "predicate": {"damaged": 1, "damage": 0}, "model": "item/diamond_shovel"}
 	]
 }
