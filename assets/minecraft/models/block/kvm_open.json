@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench, model design by OKTW",
 	"textures": {
 		"1": "custom/concrete_black",
-		"1_0": "custom/colors",
-		"particle": "custom/concrete_black"
+		"particle": "custom/concrete_black",
+		"1_0": "custom/colors"
 	},
 	"elements": [
 		{
@@ -1543,53 +1543,6 @@
 	"groups": [
 		{
 			"name": "body",
-			"children": []
-		},
-		{
-			"name": "feet",
-			"children": [
-				{
-					"name": "group",
-					"children": []
-				},
-				{
-					"name": "group",
-					"children": []
-				}
-			]
-		},
-		{
-			"name": "server",
-			"children": []
-		},
-		{
-			"name": "kvm_open",
-			"children": [
-				{
-					"name": "body",
-					"children": []
-				},
-				{
-					"name": "feet",
-					"children": [
-						{
-							"name": "group",
-							"children": []
-						},
-						{
-							"name": "group",
-							"children": []
-						}
-					]
-				},
-				{
-					"name": "server",
-					"children": []
-				}
-			]
-		},
-		{
-			"name": "screen",
 			"children": [0, 1, 2, 3, 4, 5, 6, 7,
 				{
 					"name": "keyboard",
