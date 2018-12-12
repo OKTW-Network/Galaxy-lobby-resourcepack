@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench, model design by OKTW",
 	"textures": {
-		"0": "custom/colors",
-		"1": "custom/starmap",
-		"particle": "custom/colors"
+		"0": "galaxy/colors",
+		"1": "galaxy/lobby/starmap",
+		"particle": "galaxy/colors"
 	},
 	"elements": [
 		{

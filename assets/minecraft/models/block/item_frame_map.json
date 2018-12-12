@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench, model design by OKTW",
 	"textures": {
-		"0": "custom/blank",
-		"particle": "custom/blank"
+		"0": "galaxy/blank",
+		"particle": "galaxy/blank"
 	},
 	"elements": [
 		{
