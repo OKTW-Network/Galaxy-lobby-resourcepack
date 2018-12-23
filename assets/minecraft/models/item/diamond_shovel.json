@@ -5,9 +5,9 @@
     },
 	"overrides": [
 		{ "predicate": {"damaged": 0, "damage": 0}, "model": "item/diamond_shovel"},
-		{ "#inGameDMG": 1525, "predicate": {"damaged": 0, "damage": 0.9769378603459321}, "model": "diamond_shovel"},
-		{ "#inGameDMG": 1526, "predicate": {"damaged": 0, "damage": 0.9775784753363229}, "model": "diamond_shovel"},
-		{ "#inGameDMG": 1526, "predicate": {"damaged": 0, "damage": 0.9775784753363229}, "model": "diamond_shovel"},
+		{ "#inGameDMG": 1525, "predicate": {"damaged": 0, "damage": 0.9769378603459321}, "model": "item/diamond_shovel"},
+		{ "#inGameDMG": 1526, "predicate": {"damaged": 0, "damage": 0.9775784753363229}, "model": "item/diamond_shovel"},
+		{ "#inGameDMG": 1526, "predicate": {"damaged": 0, "damage": 0.9775784753363229}, "model": "item/diamond_shovel"},
 		{ "#inGameDMG": 1527, "predicate": {"damaged": 0, "damage": 0.9782190903267136}, "model": "galaxy_lobby/cube_ani"},
 		{ "#inGameDMG": 1528, "predicate": {"damaged": 0, "damage": 0.9788597053171044}, "model": "galaxy_lobby/heavy_door_top_available"},
 		{ "#inGameDMG": 1529, "predicate": {"damaged": 0, "damage": 0.9795003203074952}, "model": "galaxy_lobby/heavy_door_top_unavailable"},
