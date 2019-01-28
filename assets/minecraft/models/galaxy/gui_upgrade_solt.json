@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench, model design by OKTW team",
 	"textures": {
-		"0": "galaxy/upgrade_slot",
+		"0": "galaxy/gui/upgrade_slot",
 		"1": "galaxy/colors",
-		"particle": "galaxy/upgrade_slot"
+		"particle": "galaxy/gui/upgrade_slot"
 	},
 	"elements": [
 		{
