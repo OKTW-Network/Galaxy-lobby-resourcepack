@@ -5,7 +5,9 @@
     },
 	"overrides": [
 		{ "predicate": {"damaged": 0, "damage": 0}, "model": "item/diamond_shovel"},
-		{ "#inGameDMG": 1536, "predicate": {"damaged": 0, "damage": 0.9839846252402306}, "model": "item/diamond_shovel"},
+		{ "#inGameDMG": 1534, "predicate": {"damaged": 0, "damage": 0.9827033952594491}, "model": "galaxy_lobby/starmap_projection_planet_2"},
+		{ "#inGameDMG": 1535, "predicate": {"damaged": 0, "damage": 0.9833440102498398}, "model": "galaxy_lobby/starmap_projection_planet_1"},
+		{ "#inGameDMG": 1536, "predicate": {"damaged": 0, "damage": 0.9839846252402306}, "model": "galaxy_lobby/starmap_projection_sun"},
 		{ "#inGameDMG": 1537, "predicate": {"damaged": 0, "damage": 0.9846252402306214}, "model": "galaxy_lobby/headwear_goggle"},
 		{ "#inGameDMG": 1538, "predicate": {"damaged": 0, "damage": 0.9852658552210122}, "model": "galaxy_lobby/headwear_cat_ear"},
 		{ "#inGameDMG": 1539, "predicate": {"damaged": 0, "damage": 0.9859064702114029}, "model": "galaxy_lobby/train_tail"},
