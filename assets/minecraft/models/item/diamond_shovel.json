@@ -5,6 +5,7 @@
     },
 	"overrides": [
 		{ "predicate": {"damaged": 0, "damage": 0}, "model": "item/diamond_shovel"},
+		{ "#inGameDMG": 1533, "predicate": {"damaged": 0, "damage": 0.9820627802690583}, "model": "galaxy_lobby/effect_over_power"},
 		{ "#inGameDMG": 1534, "predicate": {"damaged": 0, "damage": 0.9827033952594491}, "model": "galaxy_lobby/starmap_projection_planet_2"},
 		{ "#inGameDMG": 1535, "predicate": {"damaged": 0, "damage": 0.9833440102498398}, "model": "galaxy_lobby/starmap_projection_planet_1"},
 		{ "#inGameDMG": 1536, "predicate": {"damaged": 0, "damage": 0.9839846252402306}, "model": "galaxy_lobby/starmap_projection_sun"},
