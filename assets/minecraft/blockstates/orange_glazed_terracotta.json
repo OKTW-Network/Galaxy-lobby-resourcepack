@@ -1,52 +1,52 @@
 {
     "variants": {
         "facing=south": [
-			{ "model": "server_top_ex_1" },
-			{ "model": "server_top_ex_2" },
-			{ "model": "server_top_ex_3" },
-			{ "model": "server_top_ex_4" },
-			{ "model": "server_top_ex_5" },
-			{ "model": "server_top_ex_6" },
-			{ "model": "server_top_ex_7" },
-			{ "model": "server_top_ex_8" },
-			{ "model": "server_top_ex_9" },
-			{ "model": "server_top_ex_10" }
+			{ "model": "galaxy_lobby/server/server_top_ex_1" },
+			{ "model": "galaxy_lobby/server/server_top_ex_2" },
+			{ "model": "galaxy_lobby/server/server_top_ex_3" },
+			{ "model": "galaxy_lobby/server/server_top_ex_4" },
+			{ "model": "galaxy_lobby/server/server_top_ex_5" },
+			{ "model": "galaxy_lobby/server/server_top_ex_6" },
+			{ "model": "galaxy_lobby/server/server_top_ex_7" },
+			{ "model": "galaxy_lobby/server/server_top_ex_8" },
+			{ "model": "galaxy_lobby/server/server_top_ex_9" },
+			{ "model": "galaxy_lobby/server/server_top_ex_10" }
 		],
         "facing=west": [
-			{ "model": "server_top_ex_1", "y": 90 },
-			{ "model": "server_top_ex_2", "y": 90 },
-			{ "model": "server_top_ex_3", "y": 90 },
-			{ "model": "server_top_ex_4", "y": 90 },
-			{ "model": "server_top_ex_5", "y": 90 },
-			{ "model": "server_top_ex_6", "y": 90 },
-			{ "model": "server_top_ex_7", "y": 90 },
-			{ "model": "server_top_ex_8", "y": 90 },
-			{ "model": "server_top_ex_9", "y": 90 },
-			{ "model": "server_top_ex_10", "y": 90 }
+			{ "model": "galaxy_lobby/server/server_top_ex_1", "y": 90 },
+			{ "model": "galaxy_lobby/server/server_top_ex_2", "y": 90 },
+			{ "model": "galaxy_lobby/server/server_top_ex_3", "y": 90 },
+			{ "model": "galaxy_lobby/server/server_top_ex_4", "y": 90 },
+			{ "model": "galaxy_lobby/server/server_top_ex_5", "y": 90 },
+			{ "model": "galaxy_lobby/server/server_top_ex_6", "y": 90 },
+			{ "model": "galaxy_lobby/server/server_top_ex_7", "y": 90 },
+			{ "model": "galaxy_lobby/server/server_top_ex_8", "y": 90 },
+			{ "model": "galaxy_lobby/server/server_top_ex_9", "y": 90 },
+			{ "model": "galaxy_lobby/server/server_top_ex_10", "y": 90 }
 		],
         "facing=north": [
-			{ "model": "server_top_ex_1", "y": 180 },
-			{ "model": "server_top_ex_2", "y": 180 },
-			{ "model": "server_top_ex_3", "y": 180 },
-			{ "model": "server_top_ex_4", "y": 180 },
-			{ "model": "server_top_ex_5", "y": 180 },
-			{ "model": "server_top_ex_6", "y": 180 },
-			{ "model": "server_top_ex_7", "y": 180 },
-			{ "model": "server_top_ex_8", "y": 180 },
-			{ "model": "server_top_ex_9", "y": 180 },
-			{ "model": "server_top_ex_10", "y": 180 }
+			{ "model": "galaxy_lobby/server/server_top_ex_1", "y": 180 },
+			{ "model": "galaxy_lobby/server/server_top_ex_2", "y": 180 },
+			{ "model": "galaxy_lobby/server/server_top_ex_3", "y": 180 },
+			{ "model": "galaxy_lobby/server/server_top_ex_4", "y": 180 },
+			{ "model": "galaxy_lobby/server/server_top_ex_5", "y": 180 },
+			{ "model": "galaxy_lobby/server/server_top_ex_6", "y": 180 },
+			{ "model": "galaxy_lobby/server/server_top_ex_7", "y": 180 },
+			{ "model": "galaxy_lobby/server/server_top_ex_8", "y": 180 },
+			{ "model": "galaxy_lobby/server/server_top_ex_9", "y": 180 },
+			{ "model": "galaxy_lobby/server/server_top_ex_10", "y": 180 }
 		],
         "facing=east": [
-			{ "model": "server_top_ex_1", "y": 270 },
-			{ "model": "server_top_ex_2", "y": 270 },
-			{ "model": "server_top_ex_3", "y": 270 },
-			{ "model": "server_top_ex_4", "y": 270 },
-			{ "model": "server_top_ex_5", "y": 270 },
-			{ "model": "server_top_ex_6", "y": 270 },
-			{ "model": "server_top_ex_7", "y": 270 },
-			{ "model": "server_top_ex_8", "y": 270 },
-			{ "model": "server_top_ex_9", "y": 270 },
-			{ "model": "server_top_ex_10", "y": 270 }
+			{ "model": "galaxy_lobby/server/server_top_ex_1", "y": 270 },
+			{ "model": "galaxy_lobby/server/server_top_ex_2", "y": 270 },
+			{ "model": "galaxy_lobby/server/server_top_ex_3", "y": 270 },
+			{ "model": "galaxy_lobby/server/server_top_ex_4", "y": 270 },
+			{ "model": "galaxy_lobby/server/server_top_ex_5", "y": 270 },
+			{ "model": "galaxy_lobby/server/server_top_ex_6", "y": 270 },
+			{ "model": "galaxy_lobby/server/server_top_ex_7", "y": 270 },
+			{ "model": "galaxy_lobby/server/server_top_ex_8", "y": 270 },
+			{ "model": "galaxy_lobby/server/server_top_ex_9", "y": 270 },
+			{ "model": "galaxy_lobby/server/server_top_ex_10", "y": 270 }
 		]
     }
 }

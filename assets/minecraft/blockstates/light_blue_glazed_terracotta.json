@@ -1,8 +1,8 @@
 {
     "variants": {
-        "facing=south": { "model": "light_blue_glazed_terracotta" },
-        "facing=west": { "model": "light_blue_glazed_terracotta", "y": 90 },
-        "facing=north": { "model": "light_blue_glazed_terracotta", "y": 180 },
-        "facing=east": { "model": "light_blue_glazed_terracotta", "y": 270 }
+        "facing=south": { "model": "galaxy_lobby/floor/floor_q_south" },
+        "facing=west": { "model": "galaxy_lobby/floor/floor_q_west" },
+        "facing=north": { "model": "galaxy_lobby/floor/floor_q_north" },
+        "facing=east": { "model": "galaxy_lobby/floor/floor_q_east" }
     }
 }

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "galaxy_lobby/floor/floor_s_south" },
+        "facing=west": { "model": "galaxy_lobby/floor/floor_s_west" },
+        "facing=north": { "model": "galaxy_lobby/floor/floor_s_north" },
+        "facing=east": { "model": "galaxy_lobby/floor/floor_s_east" }
+    }
+}
