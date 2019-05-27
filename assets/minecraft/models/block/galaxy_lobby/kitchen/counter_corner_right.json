@@ -3,6 +3,7 @@
 	"textures": {
 		"0": "galaxy/colors",
 		"1": "blocks/hardened_clay",
+		"2": "galaxy/hardened_clay_corner",
 		"particle": "galaxy/colors"
 	},
 	"elements": [
@@ -26,7 +27,7 @@
 				"east": {"uv": [0.5, 0, 16, 1], "texture": "#1"},
 				"south": {"uv": [4.5, 2.5, 5.5, 3.5], "texture": "#1"},
 				"west": {"uv": [0, 10, 15.5, 11], "texture": "#1"},
-				"up": {"uv": [0, 0, 15.5, 15.5], "texture": "#1"},
+				"up": {"uv": [0.5, 0.5, 16, 16], "rotation": 180, "texture": "#2"},
 				"down": {"uv": [0, 0.5, 15.5, 16], "texture": "#1"}
 			}
 		},
