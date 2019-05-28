@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "map=false": { "model": "galaxy_lobby/blank" },
+        "map=true":  { "model": "galaxy_lobby/blank" }
+    }
+}
