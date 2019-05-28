@@ -1,5 +1,5 @@
 {
-    "parent": "block/half_slab",
+    "parent": "block/slab",
     "textures": {
         "bottom": "block/white_concrete",
         "top": "block/white_concrete",
