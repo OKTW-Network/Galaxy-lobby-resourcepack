@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=east": { "model": "galaxy_lobby/blank" },
+        "facing=south": { "model": "galaxy_lobby/blank", "y": 90 },
+        "facing=west": { "model": "galaxy_lobby/blank", "y": 180 },
+        "facing=north": { "model": "galaxy_lobby/blank", "y": 270 }
+    }
+}
