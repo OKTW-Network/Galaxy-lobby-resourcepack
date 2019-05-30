@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench, model design by OKTW team",
 	"textures": {
 		"0": "galaxy/colors",
-		"1": "galaxy/ranbow",
+		"1": "galaxy/rainbow",
 		"particle": "galaxy/colors"
 	},
 	"elements": [
