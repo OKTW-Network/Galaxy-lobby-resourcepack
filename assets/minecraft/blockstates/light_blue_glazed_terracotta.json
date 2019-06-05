@@ -1,8 +1,8 @@
 {
     "variants": {
-        "facing=south": { "model": "galaxy_lobby/floor/floor_q_south" },
-        "facing=west": { "model": "galaxy_lobby/floor/floor_q_west" },
-        "facing=north": { "model": "galaxy_lobby/floor/floor_q_north" },
-        "facing=east": { "model": "galaxy_lobby/floor/floor_q_east" }
+        "facing=south": { "model": "galaxy_lobby/floor/quarter_south" },
+        "facing=west": { "model": "galaxy_lobby/floor/quarter_west" },
+        "facing=north": { "model": "galaxy_lobby/floor/quarter_north" },
+        "facing=east": { "model": "galaxy_lobby/floor/quarter_east" }
     }
 }
