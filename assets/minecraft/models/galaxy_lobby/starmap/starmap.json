@@ -3,6 +3,7 @@
 	"textures": {
 		"0": "galaxy/colors",
 		"1": "galaxy/starmap_screen",
+		"2": "galaxy/lobby/waveform",
 		"particle": "galaxy/starmap_screen"
 	},
 	"elements": [
@@ -391,8 +392,8 @@
 			}
 		},
 		{
-			"from": [10.37, 2.23556, 28.54],
-			"to": [10.38, 2.31056, 28.545],
+			"from": [10.3575, 2.23556, 28.54],
+			"to": [10.3925, 2.31056, 28.545],
 			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 0.90056, 27.24919]},
 			"faces": {
 				"north": {"uv": [0.5, 0.5, 1.5, 1.5], "texture": "#0"},
@@ -605,7 +606,7 @@
 			"faces": {
 				"north": {"uv": [8.5, 6.5, 9.5, 7.5], "texture": "#0"},
 				"east": {"uv": [8.5, 6.5, 9.5, 7.5], "texture": "#0"},
-				"south": {"uv": [12.5, 6.5, 13.5, 7.5], "texture": "#0"},
+				"south": {"uv": [0.1, 0.5375, 15.9, 7.3375], "texture": "#2"},
 				"west": {"uv": [8.5, 6.5, 9.5, 7.5], "texture": "#0"},
 				"up": {"uv": [8.5, 6.5, 9.5, 7.5], "texture": "#0"},
 				"down": {"uv": [8.5, 6.5, 9.5, 7.5], "texture": "#0"}
