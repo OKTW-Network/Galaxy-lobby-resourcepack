@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench, model design by OKTW",
 	"textures": {
-		"0": "galaxy/lobby/unavailable",
-		"particle": "galaxy/lobby/unavailable"
+		"0": "galaxy_lobby/laser_sign/unavailable",
+		"particle": "galaxy_lobby/laser_sign/unavailable"
 	},
 	"elements": [
 		{

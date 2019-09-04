@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench, model design by OKTW team",
 	"textures": {
-		"0": "galaxy/colors",
-		"1": "block/terracotta",
-		"2": "galaxy/hardened_clay_corner",
-		"particle": "galaxy/colors"
+		"0": "universal/colors",
+		"1": "origin/terracotta",
+		"2": "galaxy_lobby/kitchen/hardened_clay_corner",
+		"particle": "universal/colors"
 	},
 	"elements": [
 		{

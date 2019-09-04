@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench, model design by OKTW team",
 	"textures": {
-		"0": "galaxy/colors",
-		"2": "galaxy/lobby/gameplay",
-		"particle": "galaxy/lobby/gameplay"
+		"0": "universal/colors",
+		"2": "galaxy_lobby/screen/gameplay",
+		"particle": "galaxy_lobby/screen/gameplay"
 	},
 	"elements": [
 		{

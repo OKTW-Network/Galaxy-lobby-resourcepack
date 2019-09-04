@@ -1,8 +1,8 @@
 {	
 	"parent": "galaxy_lobby/server/top_ex",
 	"textures": {
-		"1": "galaxy/lobby/server_light/green",
-		"2": "galaxy/lobby/server_light/green",
-		"3": "galaxy/lobby/server_light/red"
+		"1": "galaxy_lobby/server_light/green",
+		"2": "galaxy_lobby/server_light/green",
+		"3": "galaxy_lobby/server_light/red"
 	}
 }

@@ -1,9 +1,9 @@
 {	
 	"parent": "galaxy_lobby/server/top",
 	"textures": {
-		"1": "galaxy/lobby/server_light/green",
-		"2": "galaxy/lobby/server_light/red",
-		"3": "galaxy/lobby/server_light/green",
-		"4": "galaxy/lobby/server_light/green"
+		"1": "galaxy_lobby/server_light/green",
+		"2": "galaxy_lobby/server_light/red",
+		"3": "galaxy_lobby/server_light/green",
+		"4": "galaxy_lobby/server_light/green"
 	}
 }

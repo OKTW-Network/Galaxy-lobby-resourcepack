@@ -32,7 +32,7 @@
 		{ "predicate": {"custom_model_data": 70005}, "model": "galaxy_lobby/heavy_door/top_available"},
 		{ "predicate": {"custom_model_data": 80000}, "model": "galaxy_lobby/server/kvm_close"},
 		{ "predicate": {"custom_model_data": 80001}, "model": "galaxy_lobby/server/kvm_open"},
-		{ "predicate": {"custom_model_data": 90000}, "model": "galaxy_lobby/effect/over_power"},
+		{ "predicate": {"custom_model_data": 90000}, "model": "galaxy_lobby/effect/overpower"},
 		{ "predicate": {"custom_model_data": 100000}, "model": "galaxy_lobby/misc/cube_ani"},
 		{ "predicate": {"custom_model_data": 110000}, "model": "galaxy_lobby/computer/off"},
 		{ "predicate": {"custom_model_data": 110001}, "model": "galaxy_lobby/computer/static_mcingame"},
