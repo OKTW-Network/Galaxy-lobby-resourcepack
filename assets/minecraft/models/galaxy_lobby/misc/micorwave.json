@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench, model design by OKTW team",
 	"textures": {
-		"0": "origin/glass_gray",
+		"0": "origin/gray_stained_glass",
 		"1": "universal/colors",
-		"particle": "galaxy/glass_gray"
+		"particle": "origin/gray_stained_glass"
 	},
 	"elements": [
 		{
@@ -1117,8 +1117,8 @@
 			"from": [6.25, 2, 3.1],
 			"to": [12.25, 7, 3.675],
 			"faces": {
-				"north": {"uv": [1, 1, 15, 14], "texture": "#0"},
-				"south": {"uv": [1, 2, 15, 15], "texture": "#0"}
+				"north": {"uv": [1.5, 2, 14.5, 14], "texture": "#0"},
+				"south": {"uv": [1.5, 2, 14.5, 14], "texture": "#0"}
 			}
 		}
 	],
@@ -1164,40 +1164,50 @@
 	"groups": [
 		{
 			"name": "group",
+			"origin": [8, 8, 8],
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
 		},
 		{
 			"name": "group",
+			"origin": [8, 8, 8],
 			"children": [
 				{
 					"name": "group",
+					"origin": [8, 8, 8],
 					"children": [22, 23, 24, 25, 26, 27, 28, 29, 30]
 				},
 				{
 					"name": "group",
+					"origin": [8, 8, 8],
 					"children": [31, 32,
 						{
 							"name": "1",
+							"origin": [8, 8, 8],
 							"children": [33, 34, 35,
 								{
 									"name": "A",
+									"origin": [8, 8, 8],
 									"children": [36, 37, 38, 39, 40, 41]
 								},
 								{
 									"name": "B",
+									"origin": [8, 8, 8],
 									"children": [42, 43, 44, 45, 46, 47]
 								}
 							]
 						},
 						{
 							"name": "2",
+							"origin": [8, 8, 8],
 							"children": [48, 49, 50,
 								{
 									"name": "group",
+									"origin": [8, 8, 8],
 									"children": [51, 52, 53, 54, 55, 56]
 								},
 								{
 									"name": "group2",
+									"origin": [8, 8, 8],
 									"children": [57, 58, 59, 60, 61, 62]
 								}
 							]
@@ -1208,10 +1218,12 @@
 		},
 		{
 			"name": "group",
+			"origin": [8, 8, 8],
 			"children": [63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80]
 		},
 		{
 			"name": "group",
+			"origin": [8, 8, 8],
 			"children": [81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93]
 		}
 	]
