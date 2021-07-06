@@ -5,7 +5,7 @@
     },
 	"overrides": [
 		
-		{ "##catgory": ["lobbyStuff", "misc"],
+		{ "##category": ["lobbyStuff", "misc"],
 		  "predicate": {"custom_model_data": 10000}, "model": "galaxy_lobby/laser_sign/unavailable"},
 		{ "predicate": {"custom_model_data": 10001}, "model": "galaxy_lobby/laser_sign/staff_only"},
 		{ "predicate": {"custom_model_data": 20000}, "model": "galaxy_lobby/laser_sign/transmitter_right"},
