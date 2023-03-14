@@ -22,6 +22,11 @@
     },
     {
       "type": "directory",
+      "source": "animation",
+      "prefix": "animation/"
+    },
+    {
+      "type": "directory",
       "source": "galaxy_lobby",
       "prefix": "galaxy_lobby/"
     }
