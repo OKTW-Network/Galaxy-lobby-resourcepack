@@ -24,6 +24,11 @@
       "type": "directory",
       "source": "galaxy_lobby",
       "prefix": "galaxy_lobby/"
+    },
+    {
+      "type": "directory",
+      "source": "custom_block_atlas",
+      "prefix": ""
     }
   ]
 }
