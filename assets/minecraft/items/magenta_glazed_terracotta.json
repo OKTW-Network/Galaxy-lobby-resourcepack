@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "galaxy_lobby:block/server_cabinet_column"
+  }
+}

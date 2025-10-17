@@ -1,0 +1,16 @@
+{
+	"parent": "galaxy_lobby:decoration/rack_mount/_rack_mount",
+	"elements": [
+		{
+			"from": [3.625, 8.5, 0.65],
+			"to": [4.125, 8.75, 0.75],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#indicator"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#indicator"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#indicator"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#indicator"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#indicator"}
+			}
+		}
+	]
+}

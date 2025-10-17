@@ -1,0 +1,6 @@
+{
+	"parent": "galaxy_lobby:decoration/rack_mount/server_3_indicator_2",
+	"textures": {
+		"indicator": "galaxy_lobby:decoration/rack_mount/server/indicator_yellow"
+	}
+}
