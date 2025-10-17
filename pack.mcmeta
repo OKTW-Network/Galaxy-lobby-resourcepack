@@ -1,7 +1,9 @@
 ﻿{
   "pack": {
-    "pack_format": 34,
-    "supported_formats": {"min_inclusive": 15, "max_inclusive": 34},
-    "description": "OKTW Galaxy Resource Pack\nUsed for lobby"
+    "pack_format": 64,
+    "supported_formats": {"min_inclusive": 64, "max_inclusive": 69},
+    "min_format": 64,
+    "max_format": 69,
+    "description": "OKTW Galaxy project\n➥ Lobby"
   }
 }
