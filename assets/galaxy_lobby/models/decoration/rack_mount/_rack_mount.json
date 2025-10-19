@@ -1,5 +1,5 @@
 {
-	"parent": "galaxy_lobby:decoration/_block_on_item_frame",
+	"parent": "galaxy_lobby:decoration/_block_fill_item_frame_back",
 	"textures": {
 		"0": "galaxy_lobby:misc/dye_colors",
 		"indicator": "galaxy_lobby:decoration/rack_mount/server/indicator_inactive",
@@ -10,20 +10,16 @@
 	"display": {
 		"firstperson_righthand": {
 			"rotation": [0, 135, 0],
-			"translation": [0, 6, 0.25],
+			"translation": [0, 6, 0],
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"firstperson_lefthand": {
 			"rotation": [0, 135, 0],
-			"translation": [0, 6, 0.25],
+			"translation": [0, 6, 0],
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"gui": {
 			"rotation": [0, -180, 0]
-		},
-		"fixed": {
-			"translation": [0, 0, 16],
-			"scale": [2, 2, 2]
 		}
 	}
 }

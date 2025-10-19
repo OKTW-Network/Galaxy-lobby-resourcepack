@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:block/block",
+	"parent": "minecraft:block/orientable_with_bottom",
 	"display": {
 		"fixed": {
 			"translation": [0, 0, 16],
