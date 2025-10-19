@@ -1,7 +1,7 @@
 {
 	"parent": "galaxy_lobby:decoration/_block_on_item_frame",
 	"textures": {
-		"0": "galaxy_lobby:misc/colors",
+		"0": "galaxy_lobby:misc/dye_colors",
 		"indicator": "galaxy_lobby:decoration/rack_mount/server/indicator_inactive",
 		"video": "galaxy_lobby:decoration/rack_mount/kvm/video_inactive",
 		"particle": "galaxy_lobby:misc/blank"
