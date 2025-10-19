@@ -1,6 +1,6 @@
 {
 	"format_version": "1.21.6",
-	"parent": "minecraft:block/orientable_with_bottom",
+	"parent": "galaxy_lobby:_orientable_block",
 	"textures": {
 		"0": "galaxy_lobby:misc/dye_colors",
 		"particle": "galaxy_lobby:misc/blank"
